@@ -3,6 +3,7 @@
 [![Build Status](https://github.com/egulias/EmailValidator/actions/workflows/tests.yml/badge.svg)](https://github.com/egulias/EmailValidator/actions/workflows/tests.yml)
 [![Quality Badge](https://app.codacy.com/project/badge/Grade/55d44898c7e44ebdb4e457523563ad63)](https://app.codacy.com/gh/egulias/EmailValidator/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Test Coverage](https://app.codacy.com/project/badge/Coverage/55d44898c7e44ebdb4e457523563ad63)](https://app.codacy.com/gh/egulias/EmailValidator/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
+![Latest Release](https://img.shields.io/github/v/release/egulias/EmailValidator)
 
 A library for validating emails against several RFC.
 
@@ -24,7 +25,7 @@ This library aims to support RFCs:
 | Version |  Released  | EOL | Only critical bug fixes | Full |
 |:-------:|:----------:|:---:|:-----------------------:|:----:|
 |  v4.x   | 2023/01/07 |  -  |            X            |  X   |
-|  v3.x   | 2020/12/29 |  -  |            X            |      |
+|  v3.x   | 2020/12/29 | YES |                         |      |
 | v2.1.x  | 2016/05/16 | YES |                         |      |
 |  v1.2   | 2013/19/05 | YES |                         |      |
 
