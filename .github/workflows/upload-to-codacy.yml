@@ -21,7 +21,7 @@ jobs:
       - name: Download clover.xml artifact
         uses: dawidd6/action-download-artifact@v7
         with:
-          workflow: unit-tests 
+          workflow: tests.yml
           name: clover.xml
           path: build/coverage
 
